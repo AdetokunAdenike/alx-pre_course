@@ -1,7 +1,7 @@
 Creating my first git task folder
 
-Create and setup your Git and GitHub account
-Repo-session
-Coding fury road
-Collaboration is the base of a company
-Collaboration: be up to date
+0. Create and setup your Git and GitHub account
+1. Repo-session
+2. Coding fury road
+3. Collaboration is the base of a company
+4. Collaboration: be up to date
